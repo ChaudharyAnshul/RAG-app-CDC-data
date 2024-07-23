@@ -1,0 +1,14 @@
+[VertexAI]
+project = <temp>
+endpoint_id = <temp>
+location = <temp>
+api_endpoint = <temp>
+model_pretrained = <temp>
+
+[Tokenizer]
+model_name = <temp>
+
+[BigQuery]
+project_id = <temp>
+dataset_id = <temp>
+table_id = <temp>
